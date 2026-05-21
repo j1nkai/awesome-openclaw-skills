@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 5200+ community-built OpenClaw skills, organized by category.
+    <strong>Discover 5300+ community-built OpenClaw skills, organized by category.
     </strong>
     <br />
     <br />
