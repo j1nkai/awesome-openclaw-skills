@@ -24,20 +24,7 @@
 
 </div>
 
-<div align="center">
-    <strong>More awesome collections for developers</strong>
-    <br />
-    <br />
-</div>
 
-<div align="center">
-
-[![Agent Skills](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=classic&label=%E2%9A%A1%20Agent%20Skills&color=black)](https://github.com/VoltAgent/awesome-agent-skills)
-[![Claude Code Subagents](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=classic&label=Claude%20Code%20Subagents&color=D97757&logo=claude&logoColor=D97757)](https://github.com/VoltAgent/awesome-claude-code-subagents)
-[![Codex Subagents][codex-badge]][codex-link]
-[![AI Agent Papers](https://img.shields.io/github/stars/VoltAgent/awesome-ai-agent-papers?style=classic&label=AI%20Agent%20Papers&color=b31b1b&logo=arxiv)](https://github.com/VoltAgent/awesome-ai-agent-papers)
-
-</div>
 
 </div>
 
@@ -107,6 +94,22 @@ Managed OAuth, scoped permissions, and logged native toolcalls across 1000+ apps
 </a>
 
 
+### ☁️ Hosting & Deployment
+
+You can deploy OpenClaw on any VPS or cloud platform to run your skills securely on your own infrastructure, or use a managed host that handles servers, updates, and isolation for you. 
+
+<a href="https://myclaw.ai/?utm_source=github&utm_campaign=awesome-openclaw-skills">
+<img src="https://cdn.voltagent.dev/awesome-repo/myclaw-banner.svg" alt="MyClaw"  /><br/>
+You can run these skills without managing a server — a full cloud-hosted OpenClaw instance with one-click setup, 24/7 uptime, and complete data ownership.
+</a>
+
+
+<br/>
+<br/>
+
+> **Tip:** If you're self-hosting, pin your OpenClaw Docker image to a specific tag and snapshot your skills volume before upgrades — makes rollbacks painless when a skill update misbehaves.
+
+
 ### 🤖 Model Providers
 
 OpenClaw works with **25+ LLM providers** out of the box Anthropic, OpenAI and many more. Switch between them with a single config change.
@@ -122,13 +125,6 @@ openclaw onboard --auth-choice openai-api-key
 openclaw onboard --auth-choice openai-codex
 ```
 </details>
-
-
-### ☁️ Hosting & Deployment
-
-You can deploy OpenClaw on any VPS or cloud platform run your skills securely on your own infrastructure, or a managed host. Docker, Podman, Nix, and Ansible are all supported as install methods.
-
-> **Tip:** If you're looking for a quick cloud setup, spin up a VPS with your preferred provider, install OpenClaw via Docker, and you're good to go.
 
 
 <div align="center">
