@@ -137,11 +137,10 @@ openclaw onboard --auth-choice openai-codex
 
 <p></p>
 
-<sub>📈 <strong>+1M monthly views</strong> — the #1 most visited community resource after the official OpenClaw resource</sub>
+<sub>The #1 most visited community resource after the official OpenClaw resource</sub>
 
-<br/>
 
-<a href="mailto:necati@voltagent.dev"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
+<a href="https://sponsors.voltagent.dev/#awesome-openclaw-skills"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
 
 </td>
 </tr>
