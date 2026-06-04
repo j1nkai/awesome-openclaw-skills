@@ -24,6 +24,7 @@ If an author has multiple skills in the same area, please don't add them one by 
 ### Requirements
 
 - **Skill must already be published on [ClawHub](https://clawhub.ai), OpenClaw's public skills registry.** We do not accept skills hosted elsewhere — no personal repos, no gists, no external links. If it's not on ClawHub, it doesn't belong here.
+- **The skill's tests on ClawHub must be passing**, and its security status must be clean (not flagged as suspicious).
 - Has documentation (SKILL.md)
 - Description must be concise — 10 words or fewer
 - Skill must have real community usage. We focus on community-adopted, proven skills published by development teams and proven in real-world usage. Brand new skills are not accepted — give your skill time to mature and gain users before submitting

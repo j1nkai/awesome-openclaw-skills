@@ -38,11 +38,18 @@ Skills in this list are sourced from ClawHub (OpenClaw's public skills registry)
 
 ### Installation
 
-#### ClawHub CLI
-
+#### OpenClaw CLI
 
 ```bash
-clawhub install <skill-slug>
+openclaw skills install <skill-slug>
+```
+
+#### ClawHub CLI
+
+Or with the ClawHub CLI, for registry-managed skill folders outside a full OpenClaw workspace:
+
+```bash
+npx clawhub install <skill-slug>
 ```
 
 #### Manual Installation
@@ -63,7 +70,7 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 ### Why This List Exists?
 
-OpenClaw's public registry (ClawHub) hosts **13,729 community-built skills** as of February 28, 2026. This awesome list has **5,211 skills**. Here's what we filtered out:
+OpenClaw's public registry (ClawHub) hosts thousands of community-built skills. This awesome list curates the best of them. Here's what we filtered out:
 
 | Filter | Excluded |
 |--------|----------|
@@ -108,6 +115,16 @@ You can run these skills without managing a server — a full cloud-hosted OpenC
 <br/>
 
 > **Tip:** If you're self-hosting, pin your OpenClaw Docker image to a specific tag and snapshot your skills volume before upgrades — makes rollbacks painless when a skill update misbehaves.
+
+
+### 🔍 Search & Web Data
+
+OpenClaw agents often need fresh, real-world data — search results, product listings, videos, and more. You can scrape and parse it yourself, or use a search API that returns clean, structured data in real time without managing proxies, CAPTCHAs, or HTML parsing.
+
+<a href="https://serpapi.com/search-engine-apis?utm_source=awesomeopenclawskills_github">
+<img src="https://cdn.voltagent.dev/awesome-repo/serpapi.png" alt="SerpApi"  /><br/>
+Give OpenClaw agents access to real-time Google Search, YouTube, Amazon Product, and web search data through a single API.
+</a>
 
 
 ### 🤖 Model Providers
@@ -174,7 +191,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (103) | [Communication](#communication) (146) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (46) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
-| [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
+| [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
 | [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
@@ -314,7 +331,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentic-security-audit](https://clawskills.sh/skills/kingrubic-agentic-security-audit) - Audit codebases, infrastructure, AND agentic AI systems for security issues.
 - [agentpay](https://clawskills.sh/skills/kar69-96-agentpay) - Buy things from real websites on behalf of your human.
 
-> **[View all 924 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
+> **[View all 925 skills in Web & Frontend Development →](categories/web-and-frontend-development.md)**
 </details>
 
 <details>
