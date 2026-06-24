@@ -15,7 +15,7 @@
 </div>
   
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Skills Count](https://img.shields.io/badge/skills-5198-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-5199-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
@@ -198,7 +198,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 | | | |
 |---|---|---|
-| [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (103) | [Communication](#communication) (146) |
+| [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (104) | [Communication](#communication) (146) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (46) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
@@ -207,7 +207,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (110) | [Moltbook](#moltbook) (29) |
-| [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (50) | [Gaming](#gaming) (35) |
+| [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (52) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
 
 
@@ -280,6 +280,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-chat-ux-v1-4-0](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0) - Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search.
 - [skywork-ppt](https://clawskills.sh/skills/gxcun17-skywork-ppt) - Generate, imitate, and edit PowerPoint presentations with skywork.
 - [skywork-music-maker](https://clawskills.sh/skills/gxcun17-skywork-music-maker) - Create professional music with Mureka AI.
+- [before-you-build](https://clawhub.ai/bin1874/before-you-build) - Review product risk before building.
 
 > **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
@@ -416,6 +417,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [cad-agent](https://clawskills.sh/skills/clawd-maf-cad-agent) - Rendering server for AI agents doing CAD work.
 - [calorie-visualizer](https://clawskills.sh/skills/vintlin-calorie-visualizer) - Local calorie logging and visual reporting (auto-refreshes and returns report image after each log)
 - [canva-connect](https://clawskills.sh/skills/coolmanns-canva-connect) - Manage Canva designs, assets, and folders via the Connect API.
+- [runapi-mcp](https://clawhub.ai/runapi-ai/runapi-mcp) - 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp`
 - [skywork-design](https://clawskills.sh/skills/gxcun17-skywork-design) - Generate and edit images via Skywork Image for posters, logos and more.
 
 - [ai-video-remix](https://clawskills.sh/skills/abu-shotai-ai-video-remix) - AI-driven video remix from local library using ShotAI.
@@ -596,7 +598,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [brevo](https://clawskills.sh/skills/yujesyoga-brevo) - Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
 - [socialecho-social-media-management-agent](https://clawskills.sh/skills/socialecho-net-socialecho-social-media-management-agent) - SocialEcho API team account article report queries.
 - [postiz](https://clawskills.sh/skills/nevo-david-postiz) - Schedule social media posts and threads across 28+ platforms.
-> **[View all 104 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
+- [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Authorized email automation for agents.
+> **[View all 105 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
 <details>
@@ -826,6 +829,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [camino-journey](https://clawskills.sh/skills/james-southendsolutions-camino-journey) - Plan multi-waypoint journeys with route optimization, feasibility analysis, and time budget constraints.
 - [camino-real-estate](https://clawskills.sh/skills/james-southendsolutions-camino-real-estate) - Evaluate any address for home buyers and renters.
 - [camino-route](https://clawskills.sh/skills/james-southendsolutions-camino-route) - Get detailed routing between two points with distance, duration, and optional turn-by-turn directions.
+- [traffic-standards-kb](https://clawhub.ai/solvex-top/traffic-standards-kb) - Chinese smart transportation standards knowledge base (GB/JT/GA) for writing solutions with industry standard citations.
 
 > **[View all 110 skills in Transportation →](categories/transportation.md)**
 </details>
@@ -841,6 +845,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-evolver](https://clawskills.sh/skills/lilei0311-agent-evolver) - AI Agent self-evolution engine that enables agents to learn from experience, detect problems, extract insights.
 - [agent-reflect](https://clawskills.sh/skills/stevengonsalvez-agent-reflect) - Self-improvement through conversation analysis.
 - [ai-persona-os](https://clawskills.sh/skills/jeffjhunter-ai-persona-os) - The complete operating system for OpenClaw agents.
+- [ai-shifu-course-creator](https://clawhub.ai/heshaofu2/ai-shifu-course-creator) - Build interactive AI-Shifu courses.
 - [anxiety-relief](https://clawskills.sh/skills/jhillin8-anxiety-relief) - Manage anxiety with grounding exercises, breathing techniques.
 - [apikiss](https://clawskills.sh/skills/theill-apikiss) - Access weather, IP geolocation, SMS, crypto prices, Danish CVR, Whois, phone lookup, UUID, stock data.
 - [beaverhabits](https://clawskills.sh/skills/daya0576-beaverhabits) - Track and manage your habits using the Beaver Habit Tracker API.
@@ -861,7 +866,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [fix-life-in-1-day](https://clawskills.sh/skills/evgyur-fix-life-in-1-day) - Fix your entire life in 1 day.
 - [founder-coach](https://clawskills.sh/skills/goforu-founder-coach) - AI-powered startup mindset coach that helps founders upgrade.
 
-> **[View all 51 skills in Personal Development →](categories/personal-development.md)**
+> **[View all 52 skills in Personal Development →](categories/personal-development.md)**
 </details>
 
 <details>
@@ -1057,6 +1062,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [gcal-pro](https://clawskills.sh/skills/bilalmohamed187-cpu-gcal-pro) - Google Calendar integration for viewing, creating, and managing.
 - [gog](https://clawskills.sh/skills/steipete-gog) - Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
 - [google-calendar](https://clawskills.sh/skills/adrianmiller99-google-calendar) - Interact with Google Calendar via the Google Calendar.
+- [google-service-accounts](https://clawhub.ai/amiller/google-service-accounts) - Headless Google Sheets, Docs, Drive, Calendar via service-account sharing.
 
 > **[View all 66 skills in Calendar & Scheduling →](categories/calendar-and-scheduling.md)**
 </details>

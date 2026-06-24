@@ -143,6 +143,7 @@
 - [saa-agent](https://clawskills.sh/skills/mirabarukaso-saa-agent) - Enables AI agents to generate images using the Character Select Stand Alone App (SAA) image generation backend.
 - [shopify-bulk-upload](https://clawskills.sh/skills/zhaoteng-qd-shopify-bulk-upload) - Bulk upload products to Shopify stores.
 - [skill-1](https://clawskills.sh/skills/claudiodrusus-skill-1) - Generate QR codes from text, URLs, WiFi credentials, vCards, or any data.
+- [runapi-mcp](https://clawhub.ai/runapi-ai/runapi-mcp) - 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp`
 - [skywork-design](https://clawskills.sh/skills/gxcun17-skywork-design) - Generate and edit images via Skywork Image for posters, logos and more.
 - [snapog](https://clawskills.sh/skills/beameasy-snapog) - Generate social images and OG cards from professional templates via the SnapOG API.
 - [solo-humanize](https://clawskills.sh/skills/fortunto2-solo-humanize) - Strip AI writing patterns from text — em dashes, stock phrases, promotional inflation, performed authenticity.
