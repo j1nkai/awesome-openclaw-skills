@@ -208,3 +208,6 @@
 - [zero-rules](https://clawskills.sh/skills/deeqyaqub1-cmd-zero-rules) - Intercept deterministic tasks (math, time, currency, files, scheduling) BEFORE they hit the LLM.
 - [zonein](https://clawskills.sh/skills/phutt-bwai-zonein) - Track and analyze top traders with >75% win-rate on Hyperliquid and Polymarket via Zonein API.
 - [zulip](https://clawskills.sh/skills/suky57-zulip) - Interact with Zulip chat platform via REST API and Python client.
+- [blog-composer](https://clawhub.ai/amrree/blog-composer) - Jekyll blog authoring UI — manage posts, drafts, tags, and publishing workflow.
+- [blog-studio](https://clawhub.ai/amrree/blog-studio) - Standalone CMS for GitHub Pages Jekyll blogs — browse, edit, create, and deploy with one click.
+- [sol-scribe](https://clawhub.ai/amrree/sol-scribe) - Book writing companion for long-form creative projects — chapter planning, narrative consistency, and AI-assisted drafting.

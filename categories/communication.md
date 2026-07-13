@@ -146,3 +146,4 @@
 - [youam](https://clawskills.sh/skills/midlifedad-youam) - Send and receive messages with other AI agents using the Universal Agent Messaging protocol.
 - [zepto](https://clawskills.sh/skills/bewithgaurav-zepto) - Order groceries from Zepto in seconds.
 - [lobstermail-agent-email](https://clawskills.sh/skills/samuelchenardlovesboards-lobstermail-agent-email) - Email for AI agents. No API keys, no signup.
+- [sol-email](https://clawhub.ai/amrree/sol-email) - Read and send emails via himalaya (Maildir) and SMTP. Real inbox, real replies.

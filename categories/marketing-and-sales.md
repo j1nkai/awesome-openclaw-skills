@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**105 skills**
+**106 skills**
 
 - [4chan-reader](https://clawskills.sh/skills/aiasisbot61-4chan-reader) - Browse 4chan boards and extract thread discussions.
 - [ad-ready](https://clawskills.sh/skills/pauldelavallaz-ad-ready) - Generate professional advertising images from product URLs.
@@ -105,3 +105,4 @@
 - [writing-group-leader](https://clawskills.sh/skills/urrrich-writing-group-leader) - You are a Writing Team Lead managing specialized writers via MCP tools.
 - [ldm-openclaw-skill](https://clawhub.ai/live-direct-marketing/ldm-openclaw-skill) - Pre-send deliverability checks for outbound agents.
 - [ldm-openclaw-inbox-mcp-skill](https://clawhub.ai/live-direct-marketing/ldm-openclaw-inbox-mcp-skill) - Paid MCP inbox-placement checks for outbound agents.
+- [tempguru-event-staffing-ordering](https://clawhub.ai/kissmyabs32/tempguru-event-staffing-ordering) - Order W-2 temporary event staff across 345 US/Canada markets.

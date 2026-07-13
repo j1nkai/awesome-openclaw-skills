@@ -163,3 +163,4 @@
 - [zapper](https://clawskills.sh/skills/spirosrap-zapper) - Query DeFi portfolio data across 50+ chains via Zapper's GraphQL API.
 - [zapper-api](https://clawskills.sh/skills/zivhm-zapper-api) - Query DeFi portfolios, token holdings, NFTs, transactions, and prices via Zapper API.
 - [zhipu-asr](https://clawskills.sh/skills/franklu0819-lang-zhipu-asr) - Automatic Speech Recognition (ASR) using Zhipu AI (BigModel) GLM-ASR model.
+- [sol-self-learning](https://clawhub.ai/amrree/sol-self-learning) - Persistent memory and self-improvement for AI agents. Writes and refines its own memory files over time.

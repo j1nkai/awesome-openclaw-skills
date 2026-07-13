@@ -172,3 +172,4 @@
 - [zerox](https://clawskills.sh/skills/otacu-zerox) - Convert documents (PDF, DOCX, PPTX, images, etc.) to Markdown using the zerox library.
 - [zhipu-cogview-image](https://clawskills.sh/skills/honestqiao-zhipu-cogview-image) - Generate images using Zhipu AI's CogView model.
 - [creaa-ai](https://clawskills.sh/skills/yys2024-creaa-ai) - Generate and edit images + generate videos via Creaa API (Nano Banana 2, Sora 2, Seedance 2.0, Veo 3.1).
+- [image-gen-guide](https://clawhub.ai/amrree/image-gen-guide) - Complete guide to local AI image generation with Ollama — no API keys, 100% private.

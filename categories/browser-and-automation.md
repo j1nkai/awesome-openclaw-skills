@@ -62,6 +62,7 @@
 - [bookmark-intelligence](https://clawskills.sh/skills/bkrigmo1-bookmark-intelligence) - Turns X bookmarks into actionable insights.
 - [box-automation](https://clawskills.sh/skills/sohamganatra-box-automation) - Automate Box cloud storage operations including file.
 - [brain-search](https://clawskills.sh/skills/ryandeangraves-brain-search) - **You MUST actually execute every curl command using your shell/exec tool.** Read the real HTTP response.
+- [browser-act](https://clawhub.ai/browseract-cli/browser-act-skills) - Browser automation CLI for AI agents.
 - [browser-ladder](https://clawskills.sh/skills/ktpriyatham-browser-ladder) - Climb the browser ladder — start free, escalate.
 - [browser-use](https://clawskills.sh/skills/shawnpana-browser-use) - Use Browser Use cloud API to spin up cloud browsers for Clawdbot.
 - [browsh](https://clawskills.sh/skills/gumadeiras-browsh) - A modern text-based browser.
