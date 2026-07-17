@@ -283,6 +283,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [skywork-ppt](https://clawskills.sh/skills/gxcun17-skywork-ppt) - Generate, imitate, and edit PowerPoint presentations with skywork.
 - [skywork-music-maker](https://clawskills.sh/skills/gxcun17-skywork-music-maker) - Create professional music with Mureka AI.
 - [before-you-build](https://clawhub.ai/bin1874/before-you-build) - Review product risk before building.
+- [ditto-profile](https://clawhub.ai/ohad6k/ditto-profile) - Load your mined personal profile so agents work like you.
 
 > **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
@@ -762,6 +763,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [context-anchor](https://clawskills.sh/skills/boscoeuk-context-anchor) - Recover from context compaction by scanning memory files.
 - [continuity](https://clawskills.sh/skills/riley-coyote-continuity) - Asynchronous reflection and memory integration for genuine AI.
 - [continuity-framework](https://clawskills.sh/skills/riley-coyote-continuity-framework) - Asynchronous reflection and memory integration.
+- [ai-footprints](https://clawhub.ai/Piccolo123/ai-footprints) - Cross-platform bookmark manager with AI categorization, shared collections, and Agent API access.
 
 > **[View all 69 skills in Notes & PKM →](categories/notes-and-pkm.md)**
 </details>
