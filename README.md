@@ -15,7 +15,7 @@
 </div>
   
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Skills Count](https://img.shields.io/badge/skills-5199-blue?style=flat-square)](#table-of-contents)
+[![Skills Count](https://img.shields.io/badge/skills-5200-blue?style=flat-square)](#table-of-contents)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-clawdbot-skills/pulls?q=is%3Apr+is%3Amerged+sort%3Aupdated-desc)
 <a href="https://github.com/VoltAgent/voltagent">
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
@@ -201,7 +201,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | | | |
 |---|---|---|
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (106) | [Communication](#communication) (146) |
-| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (46) |
+| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (207) | [Speech & Transcription](#speech--transcription) (46) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
@@ -209,7 +209,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (345) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (111) | [Moltbook](#moltbook) (29) |
-| [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (52) | [Gaming](#gaming) (35) |
+| [CLI Utilities](#cli-utilities) (180) | [Personal Development](#personal-development) (53) | [Gaming](#gaming) (35) |
 | [Health & Fitness](#health--fitness) (87) | | |
 
 
@@ -294,7 +294,7 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [skywork-ppt](https://clawskills.sh/skills/gxcun17-skywork-ppt) - Generate, imitate, and edit PowerPoint presentations with skywork.
 - [skywork-music-maker](https://clawskills.sh/skills/gxcun17-skywork-music-maker) - Create professional music with Mureka AI.
 - [before-you-build](https://clawhub.ai/bin1874/before-you-build) - Review product risk before building.
-- [ditto-profile](https://clawhub.ai/ohad6k/ditto-profile) - Load your mined personal profile so agents work like you.
+- [emulo](https://clawhub.ai/ohad6k/emulo) - Load your mined personal profile so agents work like you.
 
 > **[View all 1200 skills in Coding Agents & IDEs →](categories/coding-agents-and-ides.md)**
 </details>
@@ -435,6 +435,7 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [skywork-design](https://clawskills.sh/skills/gxcun17-skywork-design) - Generate and edit images via Skywork Image for posters, logos and more.
 
 - [ai-video-remix](https://clawskills.sh/skills/abu-shotai-ai-video-remix) - AI-driven video remix from local library using ShotAI.
+- [modellix](https://clawhub.ai/modellix/modellix) - Unified API for AI image and video generation.
 > **[View all 170 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
 </details>
 
@@ -648,8 +649,9 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [async-task](https://clawskills.sh/skills/enderfga-async-task) - Execute long-running tasks without HTTP timeouts.
 - [atlassian-mcp](https://clawskills.sh/skills/atakanermis-atlassian-mcp) - Run the Model Context Protocol (MCP) Atlassian server.
 - [boss-ai-agent](https://clawskills.sh/skills/tonypk-boss-ai-agent) - AI management middleware with 14 mentors and 9 culture packs.
+- [FlowBoard](https://clawhub.ai/rasimme/plugins/flowboard) - Persistent per-project context and Kanban for agents.
 
-> **[View all 206 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
+> **[View all 207 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
 
 </details>
 
@@ -880,10 +882,11 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [english-learn-cards](https://clawskills.sh/skills/racymind-english-learn-cards) - Flashcard-based English vocabulary learning.
 - [expanso-cve-scan](https://clawskills.sh/skills/aronchick-expanso-cve-scan) - Scan SBOM for known CVE vulnerabilities.
 - [ezbookkeeping](https://clawskills.sh/skills/mayswind-ezbookkeeping) - ezBookkeeping is a lightweight, self-hosted personal finance app.
+- [first-principles](https://clawhub.ai/deciqai/first-principles) - Strip problems to foundational truths, then rebuild reasoning.
 - [fix-life-in-1-day](https://clawskills.sh/skills/evgyur-fix-life-in-1-day) - Fix your entire life in 1 day.
 - [founder-coach](https://clawskills.sh/skills/goforu-founder-coach) - AI-powered startup mindset coach that helps founders upgrade.
 
-> **[View all 52 skills in Personal Development →](categories/personal-development.md)**
+> **[View all 53 skills in Personal Development →](categories/personal-development.md)**
 </details>
 
 <details>

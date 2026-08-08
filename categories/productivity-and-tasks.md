@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**206 skills**
+**207 skills**
 
 - [4to1-planner](https://clawskills.sh/skills/qingxuantang-4to1-planner) - AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.
 - [4todo](https://clawskills.sh/skills/blackstorm-4todo) - Manage 4todo (4to.do) from chat.
@@ -210,4 +210,5 @@
 - [zulip](https://clawskills.sh/skills/suky57-zulip) - Interact with Zulip chat platform via REST API and Python client.
 - [blog-composer](https://clawhub.ai/amrree/blog-composer) - Jekyll blog authoring UI — manage posts, drafts, tags, and publishing workflow.
 - [blog-studio](https://clawhub.ai/amrree/blog-studio) - Standalone CMS for GitHub Pages Jekyll blogs — browse, edit, create, and deploy with one click.
+- [FlowBoard](https://clawhub.ai/rasimme/plugins/flowboard) - Persistent per-project context and Kanban for agents.
 - [sol-scribe](https://clawhub.ai/amrree/sol-scribe) - Book writing companion for long-form creative projects — chapter planning, narrative consistency, and AI-assisted drafting.
