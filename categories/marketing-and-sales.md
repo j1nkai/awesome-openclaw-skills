@@ -106,5 +106,6 @@
 - [ldm-openclaw-skill](https://clawhub.ai/live-direct-marketing/ldm-openclaw-skill) - Pre-send deliverability checks for outbound agents.
 - [ldm-openclaw-inbox-mcp-skill](https://clawhub.ai/live-direct-marketing/ldm-openclaw-inbox-mcp-skill) - Paid MCP inbox-placement checks for outbound agents.
 - [tempguru-event-staffing-ordering](https://clawhub.ai/kissmyabs32/tempguru-event-staffing-ordering) - Order W-2 temporary event staff across 345 US/Canada markets.
+- [posteahora](https://clawhub.ai/sashadiz/posteahora) - Schedule and publish social posts across every major network.
 - [postnitro](https://clawhub.ai/iammuneeb/skills/postnitro) - Create on-brand social media carousels and single-image posts and schedule them to LinkedIn, Instagram, TikTok, and Threads.
 - [linkedin-post-writer](https://clawhub.ai/sergebulaev/linkedin-post-writer) - LinkedIn marketing skills: viral hooks, comments, algorithm audit, humanizer.
