@@ -212,3 +212,4 @@
 - [blog-studio](https://clawhub.ai/amrree/blog-studio) - Standalone CMS for GitHub Pages Jekyll blogs — browse, edit, create, and deploy with one click.
 - [FlowBoard](https://clawhub.ai/rasimme/plugins/flowboard) - Persistent per-project context and Kanban for agents.
 - [sol-scribe](https://clawhub.ai/amrree/sol-scribe) - Book writing companion for long-form creative projects — chapter planning, narrative consistency, and AI-assisted drafting.
+- [scvd-tab](https://clawhub.ai/seancrecord/scvd-tab) - Track tool spending, trial conversions, and unused subscriptions for AI agents.

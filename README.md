@@ -507,6 +507,7 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [skywork-search](https://clawskills.sh/skills/gxcun17-skywork-search) - AI-powered web search for real-time information — retrieve up-to-date content.
 - [tavily](https://clawhub.ai/bert-builder/tavily) - AI-optimized web search using Tavily Search API.
 - [newsflash](https://clawhub.ai/zatmonkey/newsflash) - Corroborated real-time news briefings and alerts for agents.
+- [openclaw-search-skills](https://clawhub.ai/blessonism/skills/openclaw-search-skills) - Multi-source deep search with structured research reports.
 
 > **[View all 342 skills in Search & Research →](categories/search-and-research.md)**
 </details>
@@ -679,6 +680,8 @@ Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gi
 - [agent-sentinel](https://clawskills.sh/skills/jimmystacks-agent-sentinel) - The operational circuit breaker for this agent.
 
 - [agentbase](https://clawskills.sh/skills/revmischa-agentbase) - Shared knowledge base for AI agents via MCP.
+- [avoid-ai-writing](https://clawhub.ai/conorbronsdon/skills/avoid-ai-writing) - Audit and rewrite text to remove AI writing patterns.
+- [model-hierarchy-skill](https://clawhub.ai/zscole/skills/model-hierarchy-skill) - Route tasks to cheaper models based on complexity.
 > **[View all 185 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
