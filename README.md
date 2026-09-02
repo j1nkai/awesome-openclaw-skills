@@ -117,6 +117,9 @@ As you add more skills, custom code, and connected services, your OpenClaw setup
 trentclaw: audits your OpenClaw config, installed skills and custom code, then returns fixes as diffs. Install with: openclaw skills install trentclaw
 </a>
 
+</br>
+</br>
+
 <div align="center">
 
 <table>
