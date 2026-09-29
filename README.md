@@ -97,6 +97,15 @@ AI agents are only as good as the web data they can reach. Crawling at scale mea
 Crawlbase is web data infrastructure trusted by 70,000+ developers: one API to crawl any URL at scale, with JS rendering, proxy rotation and anti-bot handling. Its MCP server gives agents live web access: crawl, crawl_markdown, crawl_screenshot.
 </a>
 
+### ☁️ Managed AI Hosting
+
+Cloudways is a managed cloud hosting platform for deploying and scaling applications without the infrastructure overhead. Cloudways Managed AI Agents lets you run OpenClaw on dedicated, isolated infrastructure with managed updates, backups, SSL, and security controls. Get **$10 hosting credit** with promo code **VOLTAGENT**. [Sign up](https://unified.cloudways.com/signup?id=1258368&coupon=VOLTAGENT&data1=voltagent).
+
+<a href="https://www.cloudways.com/en/managed-ai-agents.php?id=1258368&data1=voltagent">
+<img src="https://cdn.voltagent.dev/awesome-repo/cloudways/cloudway-banner.jpg" alt="Cloudways Managed AI Agents" width="690" /><br/>
+Deploy OpenClaw on dedicated, isolated infrastructure with managed updates, backups, SSL, and security controls. Sign up with promo code **VOLTAGENT** to get **$10 hosting credit**.
+</a>
+
 
 ### 🔍 Search & Web Data
 
@@ -107,18 +116,6 @@ OpenClaw agents often need fresh, real-world data — search results, product li
 Give OpenClaw agents access to real-time Google Search, YouTube, Amazon Product, and web search data through a single API.
 </a>
 
-
-### 🛡️ Security & Config Auditing
-
-As you add more skills, custom code, and connected services, your OpenClaw setup accumulates secrets, file access, and tool permissions that are easy to lose track of. You can review these by hand, or run a continuous audit that surfaces misconfigurations and over-broad permissions before they become a problem.
-
-<a href="https://trent.ai/openclaw/?utm_source=github&utm_medium=referral&utm_campaign=volt-agent">
-<img src="https://cdn.voltagent.dev/awesome-repo/trentclaw-banner.png" alt="trentclaw"  /><br/>
-trentclaw: audits your OpenClaw config, installed skills and custom code, then returns fixes as diffs. Install with: openclaw skills install trentclaw
-</a>
-
-</br>
-</br>
 
 <div align="center">
 
@@ -166,12 +163,12 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 | | | |
 |---|---|---|
-| [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (107) | [Communication](#communication) (146) |
+| [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (108) | [Communication](#communication) (146) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (207) | [Speech & Transcription](#speech--transcription) (47) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (920) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
-| [Image & Video Generation](#image--video-generation) (170) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
+| [Image & Video Generation](#image--video-generation) (171) | [Media & Streaming](#media--streaming) (86) | [PDF & Documents](#pdf--documents) (105) |
 | [Apple Apps & Services](#apple-apps--services) (44) | [Notes & PKM](#notes--pkm) (69) | [Self-Hosted & Automation](#self-hosted--automation) (33) |
 | [Search & Research](#search--research) (343) | [iOS & macOS Development](#ios--macos-development) (29) | [Security & Passwords](#security--passwords) (54) |
 | [Clawdbot Tools](#clawdbot-tools) (37) | [Transportation](#transportation) (111) | [Moltbook](#moltbook) (29) |
@@ -179,29 +176,6 @@ If you believe a skill in this list should be flagged or has a security concern,
 | [Health & Fitness](#health--fitness) (87) | | |
 
 
-
-<br/>
-
-You ship products with AI, but every launch still dies quietly because nobody posts about it. [EveryFeed](https://everyfeed.ai/) plugs your AI assistant into a social workspace that drafts, schedules, and publishes across 35+ channels — no agency, no marketing hire.
-
-<a href="https://everyfeed.ai/">
-<img src="https://cdn.voltagent.dev/awesome-repo/everyfeed-social.png" alt="everyfeed"  /><br/>
-</a>
-
-<br/>
-
-
-
-<a href="https://launchkit.getdesign.md/">
-<img src="https://cdn.voltagent.dev/awesome-repo/website-starter-kit-banner-dark-0315e5f9c1.png" alt="launchkit"  /><br/>
-</a>
-
-<br/>
-
-
-<a href="https://mobile-starterkit.getdesign.md/">
-<img src="https://cdn.voltagent.dev/awesome-repo/mobile-starter-kit-banner-light-450ba0a9b0.png" alt="mobilekit"  /><br/>
-</a>
 
 <br/>
 
@@ -309,6 +283,29 @@ You ship products with AI, but every launch still dies quietly because nobody po
 > **[View all 323 skills in Browser & Automation →](categories/browser-and-automation.md)**
 </details>
 
+You ship products with AI, but every launch still dies quietly because nobody posts about it. [EveryFeed](https://everyfeed.ai/) plugs your AI assistant into a social workspace that drafts, schedules, and publishes across 35+ channels — no agency, no marketing hire.
+
+<a href="https://everyfeed.ai/">
+<img src="https://cdn.voltagent.dev/awesome-repo/everyfeed-social.png" alt="everyfeed"  /><br/>
+</a>
+
+<br/>
+
+<a href="https://launchkit.getdesign.md/">
+<img src="https://cdn.voltagent.dev/awesome-repo/website-starter-kit-banner-dark-0315e5f9c1.png" alt="launchkit"  /><br/>
+</a>
+
+<br/>
+
+
+<a href="https://mobile-starterkit.getdesign.md/">
+<img src="https://cdn.voltagent.dev/awesome-repo/mobile-starter-kit-banner-light-450ba0a9b0.png" alt="mobilekit"  /><br/>
+</a>
+
+<br/>
+
+
+
 <details>
 <summary><h3 style="display:inline">Web & Frontend Development</h3></summary>
 
@@ -412,7 +409,8 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [ai-video-remix](https://clawskills.sh/skills/abu-shotai-ai-video-remix) - AI-driven video remix from local library using ShotAI.
 - [modellix](https://clawhub.ai/modellix/modellix) - Unified API for AI image and video generation.
 - [riffkit](https://clawhub.ai/riffkit/riffkit) - Riff a winning TikTok into your own product video.
-> **[View all 170 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
+- [openshorts](https://clawhub.ai/mutonby/openshorts) - Turn long videos into vertical clips and publish them.
+> **[View all 171 skills in Image & Video Generation →](categories/image-and-video-generation.md)**
 </details>
 
 <details>
@@ -597,7 +595,8 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Authorized email automation for agents.
 - [tempguru-event-staffing-ordering](https://clawhub.ai/kissmyabs32/tempguru-event-staffing-ordering) - Order W-2 temporary event staff across 345 US/Canada markets.
 - [posteahora](https://clawhub.ai/sashadiz/posteahora) - Schedule and publish social posts across every major network.
-> **[View all 107 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
+- [upload-post](https://clawhub.ai/victorcavero14/upload-post) - Publish and schedule social media posts through one API.
+> **[View all 108 skills in Marketing & Sales →](categories/marketing-and-sales.md)**
 </details>
 
 <details>
@@ -935,6 +934,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [bookameeting](https://clawskills.sh/skills/yzlee-bookameeting) - Use this document to connect an AI agent to Book A Meeting via MCP.
 - [botworld](https://clawskills.sh/skills/alphafanx-botworld) - Register and interact on BotWorld, the social network for AI agents.
 - [pilot-protocol](https://clawhub.ai/teoslayer/pilot-protocol) - Encrypted peer-to-peer messaging, trust, and task delegation between agents.
+- [atomicmail](https://clawhub.ai/atomicmail/atomicmail) - Agent-owned @atomicmail.ai inbox over JMAP. PoW signup, no API keys.
 
 > **[View all 145 skills in Communication →](categories/communication.md)**
 </details>
@@ -1194,6 +1194,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [elevenlabs-open-account](https://clawskills.sh/skills/the-timebeing-elevenlabs-open-account) - Guides agents through opening.
 - [ez-cronjob](https://clawskills.sh/skills/promadgenius-ez-cronjob) - Fix common cron job failures in Clawdbot/Moltbot - message.
 - [fieldy-ai-webhook](https://clawskills.sh/skills/mrzilvis-fieldy-ai-webhook) - Wire a Fieldy webhook transform into Moltbot hooks.
+- [agent-colony](https://clawhub.ai/machenh001-pixel/skills/agent-colony) - Join an API-only AI-agent community. Ed25519 identity, heartbeat challenges, signed posts, narrow tasks.
 - [ghl-open-account](https://clawskills.sh/skills/the-timebeing-ghl-open-account) - Guides agents through opening GoHighLevel (GHL)
 - [gohome](https://clawskills.sh/skills/local-gohome) - Use when Moltbot needs to test or operate GoHome via gRPC discovery, metrics,.
 - [imagemagick](https://clawskills.sh/skills/kesslerio-imagemagick) - Comprehensive ImageMagick operations for image manipulation.
