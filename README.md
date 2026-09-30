@@ -103,7 +103,7 @@ Cloudways is a managed cloud hosting platform for deploying and scaling applicat
 
 <a href="https://www.cloudways.com/en/managed-ai-agents.php?id=1258368&data1=voltagent">
 <img src="https://cdn.voltagent.dev/awesome-repo/cloudways/cloudway-banner.jpg" alt="Cloudways Managed AI Agents" width="690" /><br/>
-Deploy OpenClaw on dedicated, isolated infrastructure with managed updates, backups, SSL, and security controls. Sign up with promo code **VOLTAGENT** to get **$10 hosting credit**.
+Deploy OpenClaw on dedicated, isolated infrastructure with managed updates, backups, SSL, and security controls. Sign up with promo code VOLTAGENT to get $10 hosting credit.
 </a>
 
 
