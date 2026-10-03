@@ -1178,6 +1178,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [skill-provenance](https://clawskills.sh/skills/snapsynapse-skill-provenance) - Version tracking and integrity verification for skill bundles
 - [trentclaw](https://clawskills.sh/skills/trent-ai-release-trentclaw) - Finds chained attack paths across config, secrets, and permissions.
 
+- [thumbgate](https://clawhub.ai/igorganapolsky/thumbgate) - Blocks known-bad agent tool calls before they run.
 > **[View all 54 skills in Security & Passwords →](categories/security-and-passwords.md)**
 </details>
 
